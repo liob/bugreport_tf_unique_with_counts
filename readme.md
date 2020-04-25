@@ -2,7 +2,7 @@ Results
 =======
 
 | framework   |   mean (ms) | dtype   |
-| ----------- | ----------- | ------- |
+| ----------- | ----------: | ------- |
 | tensorflow  |   234.770   | int32   |
 | tensorflow  |   231.738   | int16   |
 | tensorflow  |   400.438   | float32 |
